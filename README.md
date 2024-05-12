@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmmKanky.
+- 👋 Hi, I’m @Ecomfort.
 - 👀 Am devoted in making the world a better place using Python Lang .py.
 - 🌱 Currently learning "What's Obtainable in Data Science using Python".
 - 💞️ I’m looking to collaborate on Tesla and Imperial College, London,  IIM Calcutta and Simplilearn.
